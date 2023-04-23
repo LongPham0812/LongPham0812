@@ -1,7 +1,6 @@
 ### Hello there! 👋
 
 My name is Long Pham and I am an Honors Computer Science major with a Cybersecurity concentration and Mathematics minor at the University of San Diego. I am still working on updating this profile so stay tuned until then.
-![Long_Pham_Headshot](https://user-images.githubusercontent.com/89289146/233829686-de998aa2-0aa5-4d6b-a1b0-b294796de54b.jpg)
 
 <!--
 **LongPham0812/LongPham0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
