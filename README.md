@@ -7,14 +7,19 @@
 - 💡 Interested In: Projects that integrate software development, AI, and cybersecurity
 - 😄 Pronouns: He/Him
 
-## Technical Skillset
-### Programming Languages
-### Tools
-### Certifications
+## Technical Skillset 🛠️
+### Programming Languages 💻
+### Tools 🧰
+### Certifications 🏅
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+## Projects 📌
+### Current Projects 🔭
+### Favorite Projects 🥇
+
+## Other 🎹
+- ⚡ Fun Fact: 
+- 🪣 Bucket List Goal: 
+
+## Connect With Me 📫
+
+## Stats Summary 📈
