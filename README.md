@@ -4,25 +4,24 @@
 
 ## About Me 🚀
 - 🌱 **Currently Learning:** Advanced cybersecurity topics, cybersecurity tools
-- 💡 Interested In: Projects that integrate software development, AI, and cybersecurity
-- 😄 Pronouns: He/Him
+- 💡 **Interested In**: Projects that integrate software development, AI, and cybersecurity
+- 😄 **Pronouns**: He/Him
 
-## Technical Skillset 🛠️
-
-### Programming Languages 💻
-
-### Tools 🧰
-
-### Certifications 🏅
+## Certifications 🏅
 - CompTIA Security+
 
+## Technical Skillset 🛠️
+- 🧰 **Security Tools:** Autopsy, Metasploit, Nessus, Nmap, Wireshark
+- 🧑‍💻 **Platforms and Technologies:** Bash, Git, Linux, Windows
+- 💻 **Programming Languages:** C, C++, Java, JavaScript, Python, SQL
+
 ## Projects 📌
-### Current Projects 🔭
-### Favorite Projects 🥇
+- 🔭 **Current Projects:** Password Strength Checker
+- 🥇 **Favorite Projects:** College Meal Plan Maker, FAT Volume Decoder, Snake Game
 
 ## Other 🎹
-- ⚡ Fun Fact: 
-- 🪣 Bucket List Goal: 
+- ⚡ **Fun Fact:** I'm learning how to make music.
+- 🪣 **Bucket List Goal:** Release an album
 
 ## Connect With Me 📫
 
