@@ -37,7 +37,7 @@
 
 ## Connect With Me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/longpham03/)
-[![Handshake](https://img.shields.io/badge/Handshake-D3FB52?)](https://sandiego.joinhandshake.com/profiles/longpham)
+[![Handshake](https://img.shields.io/badge/Handshake-D3FB52?style=for-the-badge)](https://sandiego.joinhandshake.com/profiles/longpham)
 
 ---
 
