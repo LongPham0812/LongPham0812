@@ -43,4 +43,4 @@
 ---
 
 ## Stats Summary 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LongPham0812&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=LongPham0812)](https://github.com/stats-organization/github-stats-extended)
