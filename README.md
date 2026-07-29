@@ -37,7 +37,7 @@
 
 ## Connect With Me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/longpham03/)
-<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><use href="#simple-icons--linkedin" /></svg>
+
 ---
 
 ## Stats Summary 📈
