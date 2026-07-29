@@ -44,4 +44,5 @@
 
 ## Stats Summary 📈
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LongPham0812&theme=tokyonight)
+
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LongPham0812&langs_count=4&theme=tokyonight)
