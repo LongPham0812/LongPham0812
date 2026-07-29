@@ -43,4 +43,4 @@
 ---
 
 ## Stats Summary 📈
-[![stats](https://github-stats-extended.vercel.app/api?username=LongPham0812)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LongPham0812)](https://github.com/stats-organization/github-stats-extended)
